@@ -6,13 +6,13 @@
 // Start
 // My Variables
 
-var gameDetails = "\"Bug Hunters:\" When Roaches Attack";   // variable String with escapes to quote in company name
-var playerName = "\"Bug Man John\"";					            	// variable String with escapes to quote in character name
-var bigBug = "Nasty Boss Roach";				              			// variable String
-var bugHP = 25;											                      	// variable Number
-var poisonDamage = 5;								                    		// variable Number
-var bugAlive = true;			   				        	          		// boolean value
-var attack = true;										                    	// boolean value
+var gameDetails = "\"Bug Hunters:\" When Roaches Attack";   	// variable String with escapes to quote in company name
+var playerName = "\"Bug Man John\"";		        	// variable String with escapes to quote in character name
+var bigBug = "Nasty Boss Roach";				// variable String
+var bugHP = 25;							// variable Number
+var poisonDamage = 5;						// variable Number
+var bugAlive = true;			   			// boolean value
+var attack = true;						// boolean value
 
 
 // My Outputs
