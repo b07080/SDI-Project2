@@ -23,7 +23,7 @@ console.log(bigBug + " has " + bugHP + " hit points.");
 console.log("You must choose to either attack or not.");
 console.log("The \"Poison Attack\" will lower the bug's hit points by " + poisonDamage + ".");
 console.log("Would you like to attack " + bigBug + "?");
-console.log("It is " + bugAlive + " that " + bigBug + " must die.");
+console.log("It is " + bugAlive + " that " + bigBug + " must die."); 
 
 
 // Boolean Conditionals with math
