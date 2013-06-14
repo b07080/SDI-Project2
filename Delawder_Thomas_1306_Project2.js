@@ -6,10 +6,6 @@
 // Start
 // My Variables
 
-
-
-//  Finish
-
 var fatCopsLoveDonuts = true;
 var pastry = "donut";
 var cup = "coffee";
@@ -17,7 +13,6 @@ var donutTray = 1;
 var myArray = ["Franko", "Jimmy", "Ledo"];
 var seatForThree = true;
 var bakery = "Schmeegals";
-// lines 
 
 
 
